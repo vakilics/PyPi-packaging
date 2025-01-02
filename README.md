@@ -38,9 +38,9 @@ include todos.txt
 ```
 
 ### Build the dist:
-``
+```
 python3 setup.py sdist
-``
+```
 
 ### upload with your credential (eg: API Token)
 ```
